@@ -27,6 +27,7 @@ Meghna is a clean, unique, business website template. Built with refined busines
 
 ## Installation
 
+// Obsolete due to forking
 Navigate to your themes folder in your Hugo site and use the following commands:
 
 ```
@@ -53,9 +54,3 @@ If you want to remove the credit simply make a [donation](https://www.paypal.com
 
 ## Hire Us
 We are available for Hiring of your next HUGO project. Drop Us a mail [themefisher@gmail.com](mailto:themefisher@gmail.com)
-
-## Premium Themes
-
-| Biztrox  | Bexer  | Small Apps  | Dtox  |
-|---|---|---|---|
-| [![Biztrox](https://user-images.githubusercontent.com/37659754/54068875-6ab26e80-427b-11e9-876e-4670bdacb975.png)](https://themefisher.com/products/biztrox-hugo-template/)  | [![Bexer](https://user-images.githubusercontent.com/37659754/54068892-84ec4c80-427b-11e9-9952-5d455c259145.png)](https://themefisher.com/products/bexer-hugo-theme/) | [![Small Apps](https://user-images.githubusercontent.com/37659754/54068897-96cdef80-427b-11e9-8fd4-2a5b83cea6d0.png)](https://themefisher.com/products/small-apps-hugo-app-landing-theme/) | [![Dtox](https://user-images.githubusercontent.com/37659754/54068836-07284100-427b-11e9-8ff2-48eec3220a26.png)](https://themefisher.com/products/dtox-hugo-theme/) |
